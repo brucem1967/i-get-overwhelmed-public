@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "i-get-overwhelmed",
+  "description": "Calm, one-thing-at-a-time, plain-word output for a non-technical reader who gets overwhelmed.",
+  "owner": {
+    "name": "Bamboo Stack"
+  },
+  "plugins": [
+    {
+      "name": "i-get-overwhelmed",
+      "description": "Calm, one-thing-at-a-time, click-by-click output for a reader who gets overwhelmed.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

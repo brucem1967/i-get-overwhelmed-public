@@ -1,0 +1,9 @@
+{
+  "name": "i-get-overwhelmed",
+  "version": "0.1.0",
+  "description": "Shape Claude Code output for a non-technical reader who gets overwhelmed: calm first line, one thing at a time, plain words, click-by-click steps with what they will see. Forked from ayghri/i-have-adhd (MIT).",
+  "author": {
+    "name": "Bamboo Stack (fork of ayghri/i-have-adhd by Ayoub G.)",
+    "url": "https://github.com/bamboostack/i-get-overwhelmed-public"
+  }
+}
